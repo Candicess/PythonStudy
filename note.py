@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# 双下划线开头和结尾的是特殊变量
+
 #try list
 list = ['call', 'what', 'you', 'want']
 list.append(2017)
@@ -16,5 +19,5 @@ if(salary <= 20000):
 else:
     print '匿名区的程序员'
 
-#dict-map
+#dict对应Java中的map
 #set去重

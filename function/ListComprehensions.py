@@ -9,4 +9,4 @@ def fib(max_value):
         n = n + 1
 
 fib_num = fib(6)
-fib_num.next
+print fib_num

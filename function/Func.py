@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#匿名函数 lmbda p:result
 def func_abs(x):
     if x < 0:
         return x, -x
